@@ -5,7 +5,7 @@
 
 ```
 @inproceedings{hanruiwang2022quantumnas,
-    title     = {Quantumnas: Noise-adaptive search for robust quantum circuits},
+    title     = {Quantumnas: Noise-adaptive search for robust quantum circuits}, PQC
     author    = {Wang, Hanrui and Ding, Yongshan and Gu, Jiaqi and Li, Zirui and Lin, Yujun and Pan, David Z and Chong, Frederic T and Han, Song},
     booktitle = {The 28th IEEE International Symposium on High-Performance Computer Architecture (HPCA-28)},
     year      = {2022}

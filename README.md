@@ -13,7 +13,7 @@
 ```
 
 
-# TorchQuantum, BigProj
+# TorchQuantum, BigProj, version 0.1
 
 A PyTorch-based hybrid classical-quantum dynamic neural networks framework.
 
